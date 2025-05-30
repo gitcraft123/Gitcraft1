@@ -41,6 +41,9 @@
 			strophar = true
 			glacian = true
 
+		[types.wood_type.cataclysm]
+			chorus = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.biomesoplenty]
@@ -90,6 +93,10 @@
 
 		[types.leaves_type.ad_astra]
 			glacian = true
+
+		[types.leaves_type.luminousworld]
+			palm = true
+			yellow_birch = true
 
 #Disables specific entries
 [entries]
